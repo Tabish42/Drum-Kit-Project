@@ -46,6 +46,8 @@ footer {
 
 .set {
   margin: 10% auto;
+  display: flex;
+  justify-content: space-between;
 }
 
 .game-over {
